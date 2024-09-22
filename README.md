@@ -25,3 +25,19 @@ El dataset consta de 5 archivos en formato CSV que contienen unformacion de los 
 5. **train_users_2**: dataset de 16 columnas con informacion de los regtistros como user ID, fecha de creacion del usuario, timestamp de actividad, fecha de la primera reserva, genero, edad, metodo de registro, flujo de registro, idioma, canal afiliado, proveedor afiliado, primer afiliado reconocido, tipo de aplicacion de registro, primer browser y pais de destino. 
 
 El objetivo de todo el dataset es que el programador se dedique a disenyar y entrenar un modelo predictivo para lograr saber cual es el siguiente pais que visitara un usuario registrado.
+Este repositorio se compone de varios archivos: unos corresponden al dataset de Kaggle y, para facilitar el codigo, dentro de la misma carpeta estan la Primera Entrega y el Proyecto Final.
+
+CABE MENCIONAR que los archivos de Primera Entrega y Proyecto Final son DOS cosas muy distintas, y que para evaluar el Proyecto Final, el profesor debera tomar en cuenta mas que nada el archivo homonimo "Proyecto Final Data Science I"
+
+## Primera Entrega
+
+En este archivo todavia tierno y sin mucha direccion se encuentra una especie de EDA o Analisis Exploratorio de los Datos, en el cual intente realizar objetivos e hipotesis con base en el conjunto de datos. En este archivo se juega mucho con las librerias para generar graficos y modificar diferentes aspectos de los datos dentro de un dataframe. Este archivo es una entrega en formato .ipynb, o sea, libreta de Jupyter.
+
+## Proyecto Final
+
+Con un poco mas de conocimiento y un enfoque mas dirigio, en esta entrega Final he intentado procesar los datos de una manera mas limpia y mas orientada al formateo de los datos para lograr entrenar un algoritmo de Machine Learning. Los pasos para lograrlo se encuentran descritos con mucho mas detalle dentro del mismo archivo. Este archivo es una entrega en formato .ipynb, o sea, libreta de Jupyter.
+
+Para cualquier duda o aclaracion por parte del profesor, no dude en ponerse en contacto conmigo por el chat/retroalimencation de Coderhouse o directamente en mi linkedin:
+https://www.linkedin.com/in/gonzalo-gongora-diego/
+
+Saludos calidos!
